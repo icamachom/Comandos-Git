@@ -9,16 +9,16 @@ _git config --global user.email "alan.brito.delgado.1972@gmail.com"_
 _git config --global credential.helper 'cache --timeout=36000_
 ## Cambio de directorio
 ## Clonación de repositorios
-_git clone
+git clone
 ## Vista de archivos y directorios en forma de árbol
 ## Actualización de un repositorio en local
 ## Contenido de un directorio
 ## Contenido de un fichero
 ## Creación de un fichero vacío
-_git touch
+git touch
 ## Edición de un fichero
 ## Estado de un repositorio
-_git status
+git status
 ## Adición de ficheros y directorios al índice de elementos a tener en cuenta en el próximo commit
 ## Confirmación de cambios realizados
 ## Actualización en GitHub de los cambios realizados en local
